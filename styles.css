@@ -1,0 +1,86 @@
+body{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #effcef;
+  color: #655c56;
+}
+.div1{
+  padding-top: 100px;
+  background-color: #ffe7d1;
+  margin: 0;
+  color: #396362;
+  text-align: center;
+}
+h1{
+  margin: 60px auto 0px auto;
+  font-size: 5.625rem;
+  font-family: 'Schoolbell', cursive;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Overpass Mono', monospace;
+}
+h3{
+  font-family: 'Overpass Mono', monospace;
+}
+p,a{
+  font-family: 'Overpass Mono', monospace;
+  font-size: 14;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 30%;
+}
+.top-cloud{
+  position: absolute;
+  right: 30%;
+  top: 50px;
+}
+.middle-container{
+  padding-top: 100px;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+.bottom-container{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f6eec9;
+  margin: 0;
+  color: #af460f;
+  text-align: center;
+}
+hr{
+  border: none;
+  border-top: 10px dotted;
+  width: 20%;
+}
+a{
+  margin: 10px 20px 10px 20px;
+  color: #af460f;
+  text-decoration: none;
+}
+a:hover{
+  color: #d27932;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+}
+.text2{
+  line-height: 2;
+  text-align: left;
+}
+.skillimg2{
+  float: right;
+  padding-left: 50px;
+}
+
+.skillimg1{
+  float: left;
+  padding-right: 50px;
+}
+.copyright{
+  color: #d27932;
+  font-size: 0.75rem;
+  padding-top: 10px;
+}
